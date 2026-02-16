@@ -1,5 +1,7 @@
 # Employee Attrition Risk Analysis – Power BI Dashboard
 
+![Dashoard Preview](Dashboard%20Image.png)
+
 1️⃣ Project Background
 
 This project analyzes employee attrition data to identify workforce turnover risk, demographic vulnerability, income impact, and job role sensitivity. The objective is to transform HR records into an interactive Power BI dashboard that helps management monitor attrition patterns and identify high-risk employee segments.
